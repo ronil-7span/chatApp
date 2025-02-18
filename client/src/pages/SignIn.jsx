@@ -78,7 +78,7 @@ export default function SignIn() {
                 </div>
                 {error && (
                     <div className="text-red-400 mt-4 animate-fade-in text-center">
-                        {error || 'Something went wrong!'}
+                        {error || 'Something went wrong!!'}
                     </div>
                 )}
             </div>
